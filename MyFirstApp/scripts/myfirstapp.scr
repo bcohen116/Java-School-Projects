@@ -1,0 +1,10 @@
+//Test script for Applet 'MyFirstApp'
+
+powerup;
+// Select MyFirstApp //aid/F8F9E30166/BD
+0x00 0xA4 0x04 0x00 0X06 0XF8 0XF9 0XE3 0X01 0X66 0XBE 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;

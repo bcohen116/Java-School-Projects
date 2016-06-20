@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Application-Type: web
+Web-Context-Path: /mysecondapp
+Runtime-Descriptor-Version: 3.0
+
